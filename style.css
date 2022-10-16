@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@300&family=Fuzzy+Bubbles&family=Hurricane&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hanuman&family=Hurricane&display=swap');
+
+body {
+	
+margin: 0;
+background: rgb(23, 49, 82) url('Imagens/FundoEsc.jpg');
+background-repeat: no-repeat;
+background-size: 100%
+
+}
+
+
+.Titulo-principal{
+
+
+position: relative;
+width: 1067px;
+height: 85px;
+
+	font-family: 'Hurricane';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 64px;
+	color: #EEF5F9;
+	line-height: 88px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	left: 475px;
+
+
+}	
+
+.Titulo-principal-paragrafo{
+
+position: relative;
+width: 634px;
+height: 70px;
+
+	font-family: 'Hurricane';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 32px;
+	line-height: 44px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	color: #EEF5F9;
+	left: 490px;
+
+}	
+
+#tiprod1{
+
+	font-family: 'Hanuman';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	position: relative;
+	left: 112px;
+	color: #EEF5F9;
+	}
+
+#tiprod2{
+
+	font-family: 'Hanuman';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	position: relative;
+	left: 112px;
+	color: #EEF5F9;
+}
+
+
+#tiprod3{
+
+	font-family: 'Hanuman';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 29px;
+	display: flex;
+	align-items: center;
+	text-align: center;
+	position: relative;
+	left: 95px;
+	color: #EEF5F9;
+}
+
+
+.ParProd{
+
+	font-family: 'Hanuman';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 23px;
+	display: flex;
+	align-items: center;
+	position: relative;
+	left: 15PX;
+	top: 100PX;
+	color: #EEF5F9;
+
+}
+
+.Produto1{
+	margin: 0;
+	display: inline-block;
+	border: 1px solid white;
+	border-radius: 10px;
+	width: 350px; /*Largura da borda */
+	height: 400px; /*altura da borda */
+	position: relative;
+	left: 250PX;
+	top: 100PX;
+}	
+
+
+
+
+.Produto2{
+	margin: 20px;
+	display: inline-block;
+	border: 1px solid white;
+	border-radius: 10px;
+	width: 350px; /*Largura da borda */
+	height: 400px; /*altura da borda */
+	position: relative;
+	left: 295PX;
+	top: 84PX;
+}	
+
+.Produto3{
+	margin: 0;
+	display: inline-block;
+	border: 1px solid white;
+	border-radius: 10px;
+	width: 350px; /*Largura da borda */
+	height: 400px; /*altura da borda */
+	position: relative;
+	left: 340PX;
+	top: 100PX;
+}	
